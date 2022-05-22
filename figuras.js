@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 // codigo del cuadrado
 
 const ladoCuadrado = 5;
@@ -17,9 +16,3 @@ const perimetroTriangulo = (ladoTriangulo1 + ladoTriangulo2 + ladoTriangulo3 + "
 const areaTriangulo = ((Math.sqrt(Math.trunc(Math.pow(ladoTriangulo2) - Math.pow(ladoTriangulo1 / 2))) * ladoTriangulo1) / 2 + " cm2");
 
 console.log (areaTriangulo)
-=======
-const ladoCuadrado = 5;
-const perimetroCuadrado = (ladoCuadrado * 4);
-
-console.log (perimetroCuadrado)
->>>>>>> aeb24b6b5c922aebd199335c68ec0d494a29dd53
