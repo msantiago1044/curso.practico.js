@@ -1,0 +1,13 @@
+* {
+    box-sizing: border-box;   
+}
+h1 {
+    justify-content: center;
+    display: flex;
+    color: blue;
+}
+p {
+    justify-content: center;
+    display: flex;
+    color: brown;
+}
